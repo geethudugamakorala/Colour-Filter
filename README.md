@@ -8,11 +8,11 @@ If you haven't used Face detection repository and you are new to this please try
 
 3. Copy the code given and paste it in the file
 
-4.In the terminal type these commands and hit enter
+4. In the terminal type these commands and hit enter
 
       pip install opencv-python
       pip instal numpy
 
-5.Run the code
+5. Run the code
 
-***if there is any error please let me know
+ ***if there is any error please let me know***

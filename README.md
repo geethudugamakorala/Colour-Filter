@@ -18,8 +18,10 @@ If you haven't used Face detection repository and you are new to this please try
 6. This will detect some of blue colours.To change the range or the detecting colour study about HSV colours
 
             https://en.wikipedia.org/wiki/HSL_and_HSV
+            https://www.learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/
+            
  
-7.change the filterUpper and filterLower values to filter different colours.
+7. change the filterUpper and filterLower values to filter different colours.
 
 
  ***if there is any error please let me know***

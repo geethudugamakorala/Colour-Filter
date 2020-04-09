@@ -10,8 +10,8 @@ If you haven't used Face detection repository and you are new to this please try
 
 4. In the terminal type these commands and hit enter
 
-      pip install opencv-python
-      pip instal numpy
+            pip install opencv-python
+            pip instal numpy
 
 5. Run the code
 

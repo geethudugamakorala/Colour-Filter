@@ -20,6 +20,8 @@ If you haven't used Face detection repository and you are new to this please try
    https://en.wikipedia.org/wiki/HSL_and_HSV
    
    https://www.learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/
+   
+   https://pysource.com/2019/02/15/detecting-colors-hsv-color-space-opencv-with-python/
             
  
 7. change the filterUpper and filterLower values to filter different colours.

@@ -9,8 +9,8 @@ video.set(4, 480)
 
 #define upper and lower HSV range for filtering colours
 #change this range to filter different colours
-filterLower = np.array([110, 50, 50], np.uint8)
-filterUpper = np.array([130, 255, 255], np.uint8)
+filterLower = np.array([94, 80, 2], np.uint8)
+filterUpper = np.array([126, 255, 255], np.uint8)
 
 #start while loop to make it video
 while True:
